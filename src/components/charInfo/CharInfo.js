@@ -7,7 +7,7 @@ import ErrorMessage from "../errorMassage/ErrorMessage";
 import Skeleton from "../skeleton/Skeleton";
 
 import "./charInfo.scss";
-import thor from "../../resources/img/thor.jpeg";
+// import thor from "../../resources/img/thor.jpeg";
 
 const CharInfo = (props) => {
   const [char, setChar] = useState(null);
